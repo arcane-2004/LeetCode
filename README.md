@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arcane-2004/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -13,4 +14,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arcane-2004/LeetCode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
