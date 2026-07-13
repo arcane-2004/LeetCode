@@ -10,16 +10,16 @@ class Solution {
         int m = grid[0].size();
 
         while(!q.empty()){
-            int r = q.front().first;
-            int c = q.front().second;
+            int row = q.front().first;
+            int col = q.front().second;
             q.pop();
             //URLD
             int dx[] = {-1, 0, 1, 0};
             int dy[] = {0, 1, 0, -1};
 
             for(int k = 0; k < 4; k++) {
-                int newRow = r + dx[k];
-                int newCol = c + dy[k];
+                int newRow = row + dx[k];
+                int newCol = col + dy[k];
 
                 if(newRow >= 0 && newRow < n &&
                 newCol >= 0 && newCol < m) {
