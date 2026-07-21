@@ -75,4 +75,16 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/arcane-2004/LeetCode/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/arcane-2004/LeetCode/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/arcane-2004/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/arcane-2004/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
