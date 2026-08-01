@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arcane-2004/LeetCode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arcane-2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/arcane-2004/LeetCode/tree/master/0322-coin-change) |
@@ -94,6 +95,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/arcane-2004/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/arcane-2004/LeetCode/tree/master/0322-coin-change) |
@@ -141,4 +143,8 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/arcane-2004/LeetCode/tree/master/0043-multiply-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
