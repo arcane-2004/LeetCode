@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/arcane-2004/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/arcane-2004/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arcane-2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/arcane-2004/LeetCode/tree/master/0322-coin-change) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/arcane-2004/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/arcane-2004/LeetCode/tree/master/0322-coin-change) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
