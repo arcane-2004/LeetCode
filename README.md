@@ -24,6 +24,7 @@
 | [0049-group-anagrams](https://github.com/arcane-2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/arcane-2004/LeetCode/tree/master/0796-rotate-string) |
+| [2678-number-of-senior-citizens](https://github.com/arcane-2004/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arcane-2004/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@
 | [0994-rotting-oranges](https://github.com/arcane-2004/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/arcane-2004/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/arcane-2004/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Depth-First Search
 |  |
 | ------- |
