@@ -43,6 +43,7 @@
 | [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arcane-2004/LeetCode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/arcane-2004/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/arcane-2004/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/arcane-2004/LeetCode/tree/master/0542-01-matrix) |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arcane-2004/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
