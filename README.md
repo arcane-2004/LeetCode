@@ -51,6 +51,7 @@
 | [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/arcane-2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/arcane-2004/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arcane-2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arcane-2004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/arcane-2004/LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/arcane-2004/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/arcane-2004/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/arcane-2004/LeetCode/tree/master/0292-nim-game) |
