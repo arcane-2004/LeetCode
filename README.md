@@ -22,6 +22,7 @@
 | [0141-linked-list-cycle](https://github.com/arcane-2004/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arcane-2004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/arcane-2004/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -42,6 +43,7 @@
 | [0049-group-anagrams](https://github.com/arcane-2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arcane-2004/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arcane-2004/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -64,6 +66,7 @@
 | [0542-01-matrix](https://github.com/arcane-2004/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arcane-2004/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/arcane-2004/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/arcane-2004/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
