@@ -80,6 +80,7 @@
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/arcane-2004/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/arcane-2004/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/arcane-2004/LeetCode/tree/master/0043-multiply-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/arcane-2004/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
