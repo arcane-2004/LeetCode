@@ -244,6 +244,15 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/arcane-2004/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/arcane-2004/LeetCode/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arcane-2004/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arcane-2004/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
