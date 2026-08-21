@@ -72,6 +72,7 @@
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/arcane-2004/LeetCode/tree/master/0542-01-matrix) |
+| [0682-baseball-game](https://github.com/arcane-2004/LeetCode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/arcane-2004/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/arcane-2004/LeetCode/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/arcane-2004/LeetCode/tree/master/0682-baseball-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arcane-2004/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
@@ -242,5 +244,6 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/arcane-2004/LeetCode/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 <!---LeetCode Topics End-->
