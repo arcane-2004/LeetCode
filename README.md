@@ -84,6 +84,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/arcane-2004/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arcane-2004/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/arcane-2004/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/arcane-2004/LeetCode/tree/master/0292-nim-game) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/arcane-2004/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Brainteaser
 |  |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arcane-2004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Quicksort
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
 | ------- |
@@ -255,4 +259,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/arcane-2004/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
