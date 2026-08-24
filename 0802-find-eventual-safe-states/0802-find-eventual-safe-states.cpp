@@ -1,51 +1,52 @@
 class Solution {
-    bool solve(int src, unordered_map<int, bool> &visited, unordered_map<int, bool> &pathVisited, int check[], vector<vector<int>>& graph){
+public:
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        
+        int e = graph.size();
+        unordered_map<int, list<int>> adj;
+        for(int i=0; i<e; i++){
+            int v = i;
+            for(int u: graph[i]){
+                adj[u].push_back(v);
+            }
+        }
 
-        visited[src] = 1;
-        pathVisited[src] = 1;
-        check[src] = 0;
+        
+        unordered_map<int, bool> visited;
+        vector<int> indegree(e, 0);
 
-        for(int i: graph[src]){
-            if(!visited[i]){
-                bool ch = solve(i, visited, pathVisited, check, graph);
-                if(ch){
-                    check[i] = 0;
-                    return true;
+        queue<int> q;
+
+        for(int i=0; i<e; i++){
+            for(int a: adj[i]){
+                indegree[a]++;
+            }
+        }
+
+        for(int i=0; i<e; i++){
+            if(indegree[i] == 0){
+                q.push(i);
+               
+            }
+        }
+
+        vector<int> ans;
+        while(!q.empty()){
+            int top = q.front();
+            q.pop();
+            ans.push_back(top);
+
+            for(int i: adj[top]){
+                indegree[i]--;
+                if(indegree[i] == 0){
+                    q.push(i);
                 }
             }
 
-            else if(pathVisited[i]){
-                check[i] = 0;
-                return true;
-            }
         }
 
-        check[src] = 1;
-        pathVisited[src] = 0;
-        return false;
-    }
-public:
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n = graph.size();
-        
-        unordered_map<int, bool> visited;
-        unordered_map<int, bool> pathVisited;
+        sort(ans.begin(), ans.end());
 
-        int check[n];
-        vector<int> safe;
-
-        for(int i=0; i<n; i++){
-            if(!visited[i]){
-                solve(i, visited, pathVisited, check, graph);
-            }
-        }
-
-        for(int i=0; i<n; i++){
-            if(check[i]){
-                safe.push_back(i);
-            }
-        }
-
-        return safe;
+        return ans;
     }
 };
