@@ -3,26 +3,23 @@ public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         
         int e = graph.size();
+        vector<int> indegree(e, 0);
         unordered_map<int, list<int>> adj;
         for(int i=0; i<e; i++){
             int v = i;
             for(int u: graph[i]){
                 adj[u].push_back(v);
+                indegree[v]++;
             }
         }
 
         
         unordered_map<int, bool> visited;
-        vector<int> indegree(e, 0);
+        
 
         queue<int> q;
 
-        for(int i=0; i<e; i++){
-            for(int a: adj[i]){
-                indegree[a]++;
-            }
-        }
-
+       
         for(int i=0; i<e; i++){
             if(indegree[i] == 0){
                 q.push(i);
