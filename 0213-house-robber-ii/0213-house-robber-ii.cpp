@@ -1,22 +1,43 @@
 class Solution {
 
-    int solve(int i, vector<int> &temp, vector<int> &dp){
+    // int solve(int i, vector<int> &temp, vector<int> &dp){
 
-        if(i == 0){
-            return temp[0];
+    //     if(i == 0){
+    //         return temp[0];
+    //     }
+
+    //     if(i < 0){
+    //         return 0;
+    //     }
+    //     if(dp[i] != -1){
+    //         return dp[i];
+    //     }
+
+    //     int take = temp[i] + solve(i-2, temp, dp);
+    //     int notTake = 0 + solve(i-1, temp, dp);
+
+    //     return dp[i] = max(take, notTake);
+    // }
+
+    int solve(vector<int>& temp){
+        int n = temp.size();
+        vector<int> dp(n, -1);
+
+        dp[0] = temp[0];
+
+        for(int i=1; i<n; i++){
+
+            int take = temp[i];
+            if(i > 1){
+                take += dp[i-2];
+            }
+
+            int notTake = 0 + dp[i-1];
+            
+            dp[i] = max(take, notTake);
         }
 
-        if(i < 0){
-            return 0;
-        }
-        if(dp[i] != -1){
-            return dp[i];
-        }
-
-        int take = temp[i] + solve(i-2, temp, dp);
-        int notTake = 0 + solve(i-1, temp, dp);
-
-        return dp[i] = max(take, notTake);
+        return dp[n-1];
     }
 
 public:
@@ -35,8 +56,10 @@ public:
             if(i != n-1) temp2.push_back(nums[i]);
         }
 
-        vector<int> dp1(n-1, -1);
-        vector<int> dp2(n-1, -1);
-        return max(solve(n-2, temp1, dp1), solve(n-2, temp2, dp2));
+        // vector<int> dp1(n-1, -1);
+        // vector<int> dp2(n-1, -1);
+
+        // return max(solve(n-2, temp1, dp1), solve(n-2, temp2, dp2));
+        return max(solve(temp1), solve(temp2));
     }
 };
