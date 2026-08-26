@@ -21,23 +21,30 @@ class Solution {
 
     int solve(vector<int>& temp){
         int n = temp.size();
-        vector<int> dp(n, -1);
+        // vector<int> dp(n, -1);
 
-        dp[0] = temp[0];
+        // dp[0] = temp[0];
+
+        int prev = temp[0];
+        int prev2 = 0;
 
         for(int i=1; i<n; i++){
 
-            int take = temp[i];
-            if(i > 1){
-                take += dp[i-2];
-            }
+            int take = temp[i] + prev2;
+            // if(i > 1){
+            //     take += dp[i-2];
+            // }
 
-            int notTake = 0 + dp[i-1];
+            int notTake = 0 + prev;
             
-            dp[i] = max(take, notTake);
+            int curr = max(take, notTake);
+            prev2 = prev;
+            prev = curr;
+            // dp[i] = max(take, notTake);
         }
 
-        return dp[n-1];
+        // return dp[n-1];
+        return prev;
     }
 
 public:
