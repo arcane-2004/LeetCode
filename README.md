@@ -42,6 +42,7 @@
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/arcane-2004/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2678-number-of-senior-citizens](https://github.com/arcane-2004/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arcane-2004/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arcane-2004/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arcane-2004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arcane-2004/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
 | ------- |
