@@ -43,6 +43,6 @@ public:
 
         solve(curr, target, freq, 0, greater);
 
-        return result;
+        return curr;
     }
 };
