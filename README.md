@@ -162,6 +162,7 @@
 | [0322-coin-change](https://github.com/arcane-2004/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/arcane-2004/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/arcane-2004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/arcane-2004/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/arcane-2004/LeetCode/tree/master/0292-nim-game) |
+| [1137-n-th-tribonacci-number](https://github.com/arcane-2004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/arcane-2004/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arcane-2004/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/arcane-2004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
