@@ -94,6 +94,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arcane-2004/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arcane-2004/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/arcane-2004/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0292-nim-game](https://github.com/arcane-2004/LeetCode/tree/master/0292-nim-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/arcane-2004/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/arcane-2004/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
