@@ -40,6 +40,7 @@
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/arcane-2004/LeetCode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/arcane-2004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/arcane-2004/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arcane-2004/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arcane-2004/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/arcane-2004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Binary Search
 |  |
 | ------- |
