@@ -10,7 +10,7 @@ public:
         st.push(s[0]);
 
         for(int i=1; i<n; i++){
-            if(!st.empty() && (st.top() - 'a' == s[i] - 'A' || st.top() - 'A' == s[i] - 'a')){
+            if(!st.empty() && abs(st.top() - s[i]) == 32){
                 st.pop();
             }
 
