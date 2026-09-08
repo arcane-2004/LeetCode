@@ -42,6 +42,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/arcane-2004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/arcane-2004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1544-make-the-string-great](https://github.com/arcane-2004/LeetCode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/arcane-2004/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arcane-2004/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/arcane-2004/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/arcane-2004/LeetCode/tree/master/0682-baseball-game) |
+| [1544-make-the-string-great](https://github.com/arcane-2004/LeetCode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 ## Design
 |  |
