@@ -278,6 +278,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/arcane-2004/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/arcane-2004/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/arcane-2004/LeetCode/tree/master/0682-baseball-game) |
 | [1544-make-the-string-great](https://github.com/arcane-2004/LeetCode/tree/master/1544-make-the-string-great) |
@@ -285,6 +286,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/arcane-2004/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/arcane-2004/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
