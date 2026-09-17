@@ -71,6 +71,7 @@
 | [0015-3sum](https://github.com/arcane-2004/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/arcane-2004/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/arcane-2004/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/arcane-2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arcane-2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/arcane-2004/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/arcane-2004/LeetCode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arcane-2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/arcane-2004/LeetCode/tree/master/0542-01-matrix) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/arcane-2004/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/arcane-2004/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/arcane-2004/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/arcane-2004/LeetCode/tree/master/0279-perfect-squares) |
