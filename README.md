@@ -56,6 +56,7 @@
 | ------- |
 | [0015-3sum](https://github.com/arcane-2004/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/arcane-2004/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/arcane-2004/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
@@ -75,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/arcane-2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arcane-2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/arcane-2004/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/arcane-2004/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arcane-2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
@@ -278,6 +280,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/arcane-2004/LeetCode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
