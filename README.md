@@ -82,6 +82,7 @@
 | [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/arcane-2004/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/arcane-2004/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/arcane-2004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arcane-2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arcane-2004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -179,6 +180,7 @@
 | [0053-maximum-subarray](https://github.com/arcane-2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arcane-2004/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/arcane-2004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arcane-2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/arcane-2004/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arcane-2004/LeetCode/tree/master/0213-house-robber-ii) |
