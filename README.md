@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arcane-2004/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/arcane-2004/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -344,6 +345,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/arcane-2004/LeetCode/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arcane-2004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
