@@ -380,4 +380,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arcane-2004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/arcane-2004/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
