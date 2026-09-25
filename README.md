@@ -126,6 +126,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arcane-2004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arcane-2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/arcane-2004/LeetCode/tree/master/0207-course-schedule) |
@@ -139,6 +140,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arcane-2004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/arcane-2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arcane-2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/arcane-2004/LeetCode/tree/master/0207-course-schedule) |
@@ -372,6 +374,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arcane-2004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/arcane-2004/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arcane-2004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -381,6 +384,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arcane-2004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/arcane-2004/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arcane-2004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
