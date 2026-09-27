@@ -404,4 +404,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arcane-2004/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arcane-2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/arcane-2004/LeetCode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
