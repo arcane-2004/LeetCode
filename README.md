@@ -112,6 +112,7 @@
 | [1020-number-of-enclaves](https://github.com/arcane-2004/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/arcane-2004/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/arcane-2004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
