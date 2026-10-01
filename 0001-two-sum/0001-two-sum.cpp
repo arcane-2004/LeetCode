@@ -5,7 +5,6 @@ public:
         unordered_map<int, int> mp;
 
         for(int i=0; i<nums.size(); i++){
-
             int tg = target - nums[i];
 
             if(mp.count(tg)){
@@ -13,7 +12,6 @@ public:
             }
 
             mp[nums[i]] = i;
-            
         }
 
         return {};
