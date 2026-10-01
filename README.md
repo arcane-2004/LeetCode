@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1540-can-convert-string-in-k-moves](https://github.com/arcane-2004/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/arcane-2004/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arcane-2004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arcane-2004/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -55,6 +56,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/arcane-2004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/arcane-2004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1540-can-convert-string-in-k-moves](https://github.com/arcane-2004/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1544-make-the-string-great](https://github.com/arcane-2004/LeetCode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/arcane-2004/LeetCode/tree/master/1768-merge-strings-alternately) |
