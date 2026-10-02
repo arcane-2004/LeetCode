@@ -4,33 +4,62 @@ public:
         
         int n1 = nums1.size();
         int n2 = nums2.size();
-
+        int idx1 = (n1+n2)/2 - 1;
+        int idx2 = (n1+n2)/2;
         int l = 0, r = 0;
-        vector<int> ans;
+        int k = 0;
+        int ele1, ele2;
 
         while(l < n1 && r < n2){
             if(nums1[l] <= nums2[r]){
-                ans.push_back(nums1[l++]);
+                if(k == idx1){
+                    ele1 = nums1[l];
+                }
+                else if(k == idx2){
+                    ele2 = nums1[l];
+                }
+                k++;
+                l++;
             }
             else{
-                ans.push_back(nums2[r++]);
+                if(k == idx1){
+                    ele1 = nums2[r];
+                }
+                else if(k == idx2){
+                    ele2 = nums2[r];
+                }
+                k++;
+                r++;
             }
         }
 
         while(l < n1){
-            ans.push_back(nums1[l++]);
+            if(k == idx1){
+                ele1 = nums1[l];
+            }
+            else if(k == idx2){
+                ele2 = nums1[l];
+            }
+            k++;
+            l++;
         }
 
         while(r < n2){
-            ans.push_back(nums2[r++]);
+            if(k == idx1){
+                ele1 = nums2[r];
+            }
+            else if(k == idx2){
+                ele2 = nums2[r];
+            }
+            k++;
+            r++;
         }
 
-        int n = ans.size();
-        if(n % 2 == 1){
-            return ans[n/2];
+        if((n1+n2) % 2 == 1){
+            return ele2;
         }
         else{
-            double d = 1.0 * (ans[(n-1)/2] + ans[n/2]) / 2;
+            double d = (ele1 + ele2) / 2.0;
             return d;
         }
     }
