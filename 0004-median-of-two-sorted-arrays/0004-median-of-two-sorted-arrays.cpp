@@ -2,65 +2,48 @@ class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         
-        int n1 = nums1.size();
-        int n2 = nums2.size();
-        int idx1 = (n1+n2)/2 - 1;
-        int idx2 = (n1+n2)/2;
-        int l = 0, r = 0;
-        int k = 0;
-        int ele1, ele2;
+        if(nums1.size() > nums2.size()){
+            return findMedianSortedArrays(nums2, nums1);
+        }
 
-        while(l < n1 && r < n2){
-            if(nums1[l] <= nums2[r]){
-                if(k == idx1){
-                    ele1 = nums1[l];
+        int m = nums1.size();
+        int n = nums2.size();
+
+        int l = 0;
+        int r = m;
+
+        while(l <= r){
+            int px = l + (r-l)/2; // mid , elements from 1
+            int py = (m+n+1)/2 - px; // elements from 2
+
+            int x1 = (px == 0) ? INT_MIN : nums1[px - 1];
+            int x2 = (py == 0) ? INT_MIN : nums2[py - 1];
+            int x3 = (px == m) ? INT_MAX : nums1[px];
+            int x4 = (py == n) ? INT_MAX : nums2[py];
+
+            if(x1 <= x4 && x2 <= x3){
+
+                if((m+n) % 2 == 1){
+                    return max(x1, x2);
                 }
-                else if(k == idx2){
-                    ele2 = nums1[l];
+
+                else{
+                    double d = (max(x1, x2) + min(x3, x4)) / 2.0; 
+                    return d;
                 }
-                k++;
-                l++;
             }
+
             else{
-                if(k == idx1){
-                    ele1 = nums2[r];
+                if(x1 > x4){
+                    r = px - 1;
                 }
-                else if(k == idx2){
-                    ele2 = nums2[r];
+                else{
+                    l = px + 1;
                 }
-                k++;
-                r++;
             }
+
         }
 
-        while(l < n1){
-            if(k == idx1){
-                ele1 = nums1[l];
-            }
-            else if(k == idx2){
-                ele2 = nums1[l];
-            }
-            k++;
-            l++;
-        }
-
-        while(r < n2){
-            if(k == idx1){
-                ele1 = nums2[r];
-            }
-            else if(k == idx2){
-                ele2 = nums2[r];
-            }
-            k++;
-            r++;
-        }
-
-        if((n1+n2) % 2 == 1){
-            return ele2;
-        }
-        else{
-            double d = (ele1 + ele2) / 2.0;
-            return d;
-        }
+        return -1;
     }
 };
