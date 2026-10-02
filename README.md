@@ -428,6 +428,7 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/arcane-2004/LeetCode/tree/master/0185-department-top-three-salaries) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/arcane-2004/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Bitmask
 |  |
 | ------- |
