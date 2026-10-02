@@ -54,6 +54,7 @@
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/arcane-2004/LeetCode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/arcane-2004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/arcane-2004/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/arcane-2004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/arcane-2004/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
@@ -214,6 +215,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/arcane-2004/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0940-distinct-subsequences-ii](https://github.com/arcane-2004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/arcane-2004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/arcane-2004/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arcane-2004/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Math
 |  |
@@ -426,4 +428,8 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/arcane-2004/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/arcane-2004/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
