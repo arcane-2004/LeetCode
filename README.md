@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arcane-2004/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/arcane-2004/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/arcane-2004/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
@@ -283,6 +284,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/arcane-2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -310,6 +312,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arcane-2004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Quicksort
