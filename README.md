@@ -434,6 +434,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/arcane-2004/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1193-monthly-transactions-i](https://github.com/arcane-2004/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/arcane-2004/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
+| [1934-confirmation-rate](https://github.com/arcane-2004/LeetCode/tree/master/1934-confirmation-rate) |
 ## Bitmask
 |  |
 | ------- |
