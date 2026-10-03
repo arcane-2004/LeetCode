@@ -2,11 +2,38 @@ class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
         
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
+        int a = INT_MIN;
+        int b = INT_MIN;
+        int c = INT_MIN;
 
-        int pro1 = nums[0] * nums[1] * nums[n-1];
-        int pro2 = nums[n-1] * nums[n-2] * nums[n-3];
-        return max(pro1, pro2);
+        for(int i: nums){
+            if(i > a){
+                c = b;
+                b = a;
+                a = i;
+            }
+            else if(i > b){
+                c = b;
+                b = i;
+            }
+            else if(i > c){
+                c = i;
+            }
+        }
+
+        int l = INT_MAX;
+        int m = INT_MAX;
+
+        for(int i: nums){
+            if(i < l){
+                m = l;
+                l = i;
+            }
+            else if(i < m){
+                m = i;
+            }
+        }
+
+        return max((a*b*c), (l*m*a));
     }
 };
