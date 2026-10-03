@@ -77,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arcane-2004/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/arcane-2004/LeetCode/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arcane-2004/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -109,6 +110,7 @@
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/arcane-2004/LeetCode/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arcane-2004/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/arcane-2004/LeetCode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/arcane-2004/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -229,6 +231,7 @@
 | [0070-climbing-stairs](https://github.com/arcane-2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/arcane-2004/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/arcane-2004/LeetCode/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arcane-2004/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/arcane-2004/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1137-n-th-tribonacci-number](https://github.com/arcane-2004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arcane-2004/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
