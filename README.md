@@ -84,6 +84,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/arcane-2004/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/arcane-2004/LeetCode/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arcane-2004/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arcane-2004/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arcane-2004/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -130,6 +131,7 @@
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arcane-2004/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/arcane-2004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/arcane-2004/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -297,6 +299,7 @@
 | [0678-valid-parenthesis-string](https://github.com/arcane-2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arcane-2004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
@@ -326,12 +329,14 @@
 | [0238-product-of-array-except-self](https://github.com/arcane-2004/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/arcane-2004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arcane-2004/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arcane-2004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/arcane-2004/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Quicksort
 |  |
@@ -342,6 +347,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arcane-2004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arcane-2004/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arcane-2004/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
