@@ -29,7 +29,7 @@ class Solution {
         }
 
         else{
-            if (open == 0) return dp[i][open] =  false;
+            if (open == 0) return false;
             return dp[i][open] = solve(s, i+1, open-1);
         }
     }
