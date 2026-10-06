@@ -48,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/arcane-2004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/arcane-2004/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/arcane-2004/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/arcane-2004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/arcane-2004/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/arcane-2004/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/arcane-2004/LeetCode/tree/master/0049-group-anagrams) |
@@ -350,6 +351,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arcane-2004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arcane-2004/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arcane-2004/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/arcane-2004/LeetCode/tree/master/0155-min-stack) |
@@ -457,4 +459,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arcane-2004/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arcane-2004/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
