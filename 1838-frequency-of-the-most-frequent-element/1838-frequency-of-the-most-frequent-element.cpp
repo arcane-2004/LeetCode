@@ -6,7 +6,7 @@ public:
         int n = nums.size();
 
         int l = 0, r = 0;
-        long ans = 0;
+        int ans = 0;
         long oriSum = 0;
 
         while(r < n){
@@ -16,7 +16,7 @@ public:
             oriSum += nums[r];
             long operations = winSum - oriSum;
 
-            while(operations > k){
+            if(operations > k){
                 oriSum -= nums[l];
                 l++;
                 cnt--;
@@ -25,7 +25,7 @@ public:
 
             
 
-            ans = max(ans, cnt);
+            ans = max(ans, r-l+1);
             r++;
 
 
