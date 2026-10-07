@@ -1,34 +1,20 @@
-with distinct_date as(
-    select distinct player_id,
-    event_date
-    from Activity
-),
-
-ranked as(
+with first_login as(
     select player_id,
-    event_date,
-    row_number() over(
-        partition by player_id
-        order by event_date asc
-    )as rank_id
-    from distinct_date
-),
-
-leading_date as(
-    select player_id, event_date,
-    lead(event_date) over(
-        partition by player_id
-        order by event_date
-    )as next_date
-    from ranked
-    where rank_id <= 2
+    min(event_date) as first_date
+    from Activity
+    group by player_id
 )
 
 select
 round(
-    sum(case when datediff(next_date, event_date) = 1  then 1 else 0 end)
-    / count(distinct player_id)
-    , 2 
+    sum(
+        case when exists(
+            select 1
+            from Activity a
+            where a.player_id = f.player_id
+            and a.event_date = date_add(f.first_date, interval 1 day)
+        ) then 1 else 0 end
+    ) / count(distinct f.player_id)
+    , 2
 )as fraction
-from leading_date
-
+from first_login f
