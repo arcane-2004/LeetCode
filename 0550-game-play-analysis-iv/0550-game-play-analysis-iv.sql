@@ -1,5 +1,5 @@
 with distinct_date as(
-    select player_id,
+    select distinct player_id,
     event_date
     from Activity
 ),
