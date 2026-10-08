@@ -4,16 +4,16 @@ public:
         
         unordered_map<string, vector<string>> mp;
 
-        for(int i=0; i<strs.size(); i++){
-            string temp = strs[i];
+        for(string s: strs){
+            string temp = s;
             sort(temp.begin(), temp.end());
 
-            mp[temp].push_back(strs[i]);
+            mp[temp].push_back(s);
         }
 
         vector<vector<string>> ans;
-        for(auto s: mp){
-            ans.push_back(s.second);
+        for(auto i: mp){
+            ans.push_back(i.second);
         }
 
         return ans;
