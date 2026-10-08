@@ -9,25 +9,23 @@
  * };
  */
 class Solution {
-    ListNode* solve(ListNode* list1, ListNode* list2){
-        if(!list1) return list2;
-        if(!list2) return list1;
-
-        ListNode* result;
-        if(list1->val < list2->val){
-            result = list1;
-            result->next = solve(list1->next, list2);
-        }
-        else{
-            result = list2;
-            result->next = solve(list1, list2->next);
-        }
-
-        return result;
-    }
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         
-        return solve(list1, list2);
+        if(!list1) return list2;
+        if(!list2) return list1;
+
+        ListNode* ans;
+        if(list1->val < list2->val){
+            ans = list1;
+            ans->next = mergeTwoLists(list1->next, list2);
+        }
+
+        else{
+            ans = list2;
+            ans->next = mergeTwoLists(list1, list2->next);
+        }
+
+        return ans;
     }
 };
