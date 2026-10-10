@@ -124,6 +124,7 @@
 | [0835-image-overlap](https://github.com/arcane-2004/LeetCode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/arcane-2004/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/arcane-2004/LeetCode/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/arcane-2004/LeetCode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/arcane-2004/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/arcane-2004/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -298,6 +299,7 @@
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/arcane-2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/arcane-2004/LeetCode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arcane-2004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
