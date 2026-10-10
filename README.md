@@ -128,6 +128,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/arcane-2004/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/arcane-2004/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arcane-2004/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arcane-2004/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -244,6 +245,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/arcane-2004/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/arcane-2004/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1137-n-th-tribonacci-number](https://github.com/arcane-2004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arcane-2004/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arcane-2004/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/arcane-2004/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -300,6 +302,7 @@
 | [0678-valid-parenthesis-string](https://github.com/arcane-2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/arcane-2004/LeetCode/tree/master/0860-lemonade-change) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arcane-2004/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arcane-2004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
