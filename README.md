@@ -31,6 +31,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arcane-2004/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/arcane-2004/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/arcane-2004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/arcane-2004/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arcane-2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -98,6 +99,7 @@
 | [0001-two-sum](https://github.com/arcane-2004/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/arcane-2004/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/arcane-2004/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/arcane-2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/arcane-2004/LeetCode/tree/master/0048-rotate-image) |
