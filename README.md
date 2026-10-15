@@ -12,6 +12,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/arcane-2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0840-magic-squares-in-grid](https://github.com/arcane-2004/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1540-can-convert-string-in-k-moves](https://github.com/arcane-2004/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
@@ -39,6 +40,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arcane-2004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/arcane-2004/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arcane-2004/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/arcane-2004/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -84,6 +86,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arcane-2004/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/arcane-2004/LeetCode/tree/master/0853-car-fleet) |
@@ -122,6 +125,7 @@
 | [0287-find-the-duplicate-number](https://github.com/arcane-2004/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/arcane-2004/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/arcane-2004/LeetCode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/arcane-2004/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arcane-2004/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -355,6 +359,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arcane-2004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/arcane-2004/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arcane-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Quicksort
