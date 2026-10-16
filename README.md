@@ -47,6 +47,7 @@
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/arcane-2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/arcane-2004/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arcane-2004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1544-make-the-string-great](https://github.com/arcane-2004/LeetCode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/arcane-2004/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arcane-2004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arcane-2004/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2678-number-of-senior-citizens](https://github.com/arcane-2004/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arcane-2004/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -325,6 +327,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/arcane-2004/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arcane-2004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/arcane-2004/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arcane-2004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -397,6 +400,7 @@
 | [0853-car-fleet](https://github.com/arcane-2004/LeetCode/tree/master/0853-car-fleet) |
 | [1544-make-the-string-great](https://github.com/arcane-2004/LeetCode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arcane-2004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -509,4 +513,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/arcane-2004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/arcane-2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arcane-2004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
