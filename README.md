@@ -147,6 +147,7 @@
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1408-string-matching-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arcane-2004/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/arcane-2004/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1598-crawler-log-folder](https://github.com/arcane-2004/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/arcane-2004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -343,6 +344,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/arcane-2004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arcane-2004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/arcane-2004/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arcane-2004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/arcane-2004/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arcane-2004/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arcane-2004/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -411,6 +414,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/arcane-2004/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/arcane-2004/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Combinatorics
 |  |
 | ------- |
@@ -515,4 +519,12 @@
 | [0020-valid-parentheses](https://github.com/arcane-2004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/arcane-2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arcane-2004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/arcane-2004/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/arcane-2004/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
