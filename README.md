@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arcane-2004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arcane-2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/arcane-2004/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0840-magic-squares-in-grid](https://github.com/arcane-2004/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1386-cinema-seat-allocation](https://github.com/arcane-2004/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1540-can-convert-string-in-k-moves](https://github.com/arcane-2004/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
@@ -62,6 +63,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/arcane-2004/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/arcane-2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/arcane-2004/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/arcane-2004/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/arcane-2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/arcane-2004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/arcane-2004/LeetCode/tree/master/0796-rotate-string) |
@@ -379,6 +381,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arcane-2004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/arcane-2004/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/arcane-2004/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arcane-2004/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arcane-2004/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
