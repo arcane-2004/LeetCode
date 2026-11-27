@@ -168,6 +168,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/arcane-2004/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arcane-2004/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arcane-2004/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/arcane-2004/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/arcane-2004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/arcane-2004/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arcane-2004/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/arcane-2004/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arcane-2004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/arcane-2004/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arcane-2004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/arcane-2004/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
